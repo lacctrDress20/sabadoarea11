@@ -1,6 +1,8 @@
-
-
-primera plana 
-
-las mejores clases con las matematicas que uno puede aprender de manera sencilla, con motivacion y 
-constancia se puede hacer, asi que no hay problema si te atrasas
+<html>
+	<head>
+		<title>Mi página de ejemplo</title>
+	</head>
+	<body>
+	Aquí va el contenido
+	</body>
+</html>
